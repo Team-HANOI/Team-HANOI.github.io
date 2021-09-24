@@ -1,0 +1,19 @@
+table {
+  width: 100% !important;
+  margin-left: 0px !important;
+}
+
+table td {
+  background-color: white !important;
+  border: none !important;
+  padding : 0px !important;
+}
+
+p img {
+  border: 1px solid var(--border-color);
+}
+
+pre.highlight {
+  width: auto !important;
+  margin-left : 0px !important;
+}
