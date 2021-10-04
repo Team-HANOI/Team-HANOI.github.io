@@ -1,7 +1,7 @@
 ---
 layout: post
 description: >
-  스프링 배치를 사용하는 이유에 대해 알아보자
+  왜 Spring Batch를 사용해야하는가
 author: cgkim449
 ---
 
